@@ -1,0 +1,13 @@
+#  Node modules
+/Database/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS and IDE files
+.DS_Store
+.vscode/
+*.swp
